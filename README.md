@@ -24,7 +24,7 @@ Run the shell script.
 Here is the usage of the script.
 
 ```
-Usage: ./trucks.sh [options] [file]
+Usage: ./trucks.sh [file] [options]
 Options:
   -h: show this help message
   -c: force to re-compile the C program
